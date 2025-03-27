@@ -1,7 +1,7 @@
 # Krishnanimayam  <html>
 <head>
 <body>
-  <center><h1>My Bio-Data</h1></center><img src="passportphoto.gif">
+  <center><h1>My Bio-Data</h1></center><img src="krishnan.jpeg">
   <table>
     <tr>
       <th>Name:</th>
